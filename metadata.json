@@ -1,7 +1,7 @@
 {
-  "className":  "AppAgileDeviceManagerInterface",
-  "name":       "Device Manager",
-  "description":"",
+  "className":  "AppAgileNodeRedDashBoard",
+  "name":       "Dashboard",
+  "description":"Agile NodeRed Dashboard",
   "mime":       null,
   "category":   "development",
   "icon": "",
