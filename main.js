@@ -18,7 +18,7 @@
       allow_maximize: true
     }]);
 
-     var src = document.location.protocol + "//" + document.location.hostname + ":1880/dash/";
+     var src = document.location.protocol + "//" + document.location.hostname + ":1880/api/dash/";
 
     this.options.src = src;
   }
